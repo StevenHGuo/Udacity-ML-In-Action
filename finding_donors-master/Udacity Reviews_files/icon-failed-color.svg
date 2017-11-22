@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-revise</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mar-15" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Interactions" transform="translate(-1581.000000, -1098.000000)">
+            <g id="icon-revise" transform="translate(1574.000000, 1092.000000)">
+                <g></g>
+                <path d="M8.1438,11.8538 C9.0188,9.4668 11.3106,7.7644 14,7.7644 C16.065,7.7644 17.8962,8.7682 19.0302,10.3152 M20.0102,15.9516 C19.194,18.445 16.849,20.2468 14.0826,20.2468 C12.0176,20.2468 10.1864,19.243 9.051,17.696" id="Stroke-1" stroke="#ECC81A" stroke-width="2"></path>
+                <path d="M19,10.7510742 L19,12.3510742 L21,12.3510742 L21,8.35107422 C21,7.75107422 20.6,7.35107422 20,7.35107422 L16,7.35107422 L16,7.35107422 L16,9.35107422 L17.6,9.35107422" id="Shape" fill="#ECC81A" transform="translate(18.500000, 9.851074) rotate(-270.000000) translate(-18.500000, -9.851074) "></path>
+                <path d="M10,19.4 L10,21 L12,21 L12,17 C12,16.4 11.6,16 11,16 L7,16 L7,16 L7,18 L8.6,18" id="Shape-Copy" fill="#ECC81A" transform="translate(9.500000, 18.500000) rotate(-90.000000) translate(-9.500000, -18.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
